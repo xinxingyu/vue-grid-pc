@@ -6,17 +6,15 @@
 
 > grid component used for pc
 
-
 ## Show my face
 <p>
 	<img width="1000px" src="https://github.com/xinxingyu/vue-grid-pc/blob/master/static/img/grid.jpg">
 <p>
 
 ## Installation
-
 ``` bash
 # install grid component
-$ npm install vue-grid-pc --save
+npm install vue-grid-pc --save
 ```
 
 ## Build Setup
