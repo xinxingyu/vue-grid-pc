@@ -7,13 +7,12 @@
 > grid component used for pc
 
 
-### Show my face
+## Show my face
 <p>
 	<img width="1000px" src="https://github.com/xinxingyu/vue-grid-pc/blob/master/static/img/grid.jpg">
 <p>
 
-
-### Installation
+## Installation
 
 ``` bash
 # install grid component
