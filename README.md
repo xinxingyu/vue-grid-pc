@@ -9,7 +9,7 @@
 
 ### 展示
 <p>
-	<img width="600px" src="https://github.com/xinxingyu/vue-grid-pc/blob/master/static/img/grid.jpg">
+	<img width="1000px" src="https://github.com/xinxingyu/vue-grid-pc/blob/master/static/img/grid.jpg">
 <p>
 
 
@@ -39,14 +39,6 @@ npm run build
 		:data="gridData.data"
 		:cols="gridData.cols"
 		:paging="gridData.paging"
-		:theme="{
-			headBorderColor: '#e7e7e7',
-			borderColor: '#e7e7e7',
-			headBgColor: '#f8f8f8',
-			fontColor: '#888',
-			opacity: 1,
-			choosedColor: '#f8f8f8'
-		}"
 		>
 	</Grid>
   </div>

@@ -1,7 +1,7 @@
 {
   "name": "vue-grid-pc",
   "version": "0.0.1",
-  "description": "grid component of vue2.0 that used for pc",
+  "description": "grid component used for pc",
   "author": "xinxingyu",
   "repository": {
 	"type": "git",
